@@ -2,8 +2,9 @@
 
 I am a Pipeline Technical Director, focusing with Animation, Layout and Rigging.
 
-Inspired by 2D/3D animation and rigging, my intentions is to create tools and workflows around these areas.
+Inspired by videogames and indie feature animation films, my intentions is to create tools and workflows around 2D/3D animation and rigging production.
 And with a big itch to squash some bugs around DCC software.
+
 
 ## Works with:
 
