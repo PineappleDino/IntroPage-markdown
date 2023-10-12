@@ -1,8 +1,8 @@
 # Alex S. / PineappleDino
 
-I am a Pipeline Technical Director, focusing with Animation, Layout and Rigging.
+I am a Technical Artist, focusing with Animation, Layout and Rigging.
 
-Inspired by videogames and indie feature animation films, my intentions is to create tools and workflows around 2D/3D animation and rigging production.
+Inspired by videogames and indie/classic feature animation films and series, my intentions is to create tools and workflows that aid 2D/3D animation and rigging production.
 And with a big itch to squash some bugs around DCC software.
 
 
