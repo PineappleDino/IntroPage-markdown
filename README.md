@@ -5,6 +5,7 @@ I am a Technical Artist/Technical Animator.
 Inspired by videogames and indie/classic feature animation films and series, my intentions is to create tools and workflows that aid 2D/3D animation and rigging production.
 And with a big itch to squash some bugs around DCC software.
 
+## [[Artstation]](https://pineappledino.artstation.com/)
 
 ## Works with:
 
