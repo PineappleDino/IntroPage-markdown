@@ -1,6 +1,6 @@
 # Alex S. / PineappleDino
 
-I am a Technical Artist/Technical Animator.
+I am a Technical Artist/Technical Animator, with a background of doing IT technician support and troubleshooting.
 
 Inspired by videogames and indie/classic feature animation films and series, my intentions is to create tools and workflows that aid 2D/3D animation and rigging production.
 And with a big itch to squash some bugs around DCC software.
